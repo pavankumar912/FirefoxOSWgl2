@@ -1,0 +1,13 @@
+{
+  "name": "Calc",
+  "description": "ADD SUB MUL DIV",
+  "launch_path": "/1.html",
+  "icons": {
+    "128": "/cal.png"
+  },
+  "developer": {
+    "name": "Pavan",
+    "url": "http://mozilla.org"
+  },
+  "default_locale": "en"
+}
